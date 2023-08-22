@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5e05540-da36-4903-a39a-0ad43ee24b53": {
+      "ProjectGuid": "a5e05540-da36-4903-a39a-0ad43ee24b53",
+      "DisplayName": "UC12_ExperimenteSenac_Jogos",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\bin\Debug\UC12_ExperimenteSenac_Jogos.exe.config
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\bin\Debug\UC12_ExperimenteSenac_Jogos.exe
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\bin\Debug\UC12_ExperimenteSenac_Jogos.pdb
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.FormJOGOS.resources
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.Properties.Resources.resources
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.csproj.GenerateResource.cache
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.exe
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.pdb
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.FormFORCA.resources
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.FormMEMORIA.resources
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.FormVELHA.resources
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.FormVELHA_TURNO.resources
+C:\Users\mateus.mbhespana\source\repos\UC12_ExperimenteSenac_Jogos\UC12_ExperimenteSenac_Jogos\obj\Debug\UC12_ExperimenteSenac_Jogos.FormFORCA_PALAVRA.resources
